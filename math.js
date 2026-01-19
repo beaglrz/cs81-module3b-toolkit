@@ -1,14 +1,19 @@
-//Add double function
+//Add Double Function
 function double(n) {
 return n * 2;
 }
 
-//Add square function
+//Add Square Function
 function square(n) {
 return n * n;
 }
 
-//Add Even function
+//Add Even Function
 function isEven(n) {
-return n% 2 === 0;
+return n % 2 === 0;
+}
+
+//Add Odd Function
+function isOdd(n) {
+return n % 2 !=== 0;
 }
