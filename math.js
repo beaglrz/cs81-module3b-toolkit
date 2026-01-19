@@ -17,3 +17,8 @@ return n % 2 === 0;
 function isOdd(n) {
 return n % 2 !=== 0;
 }
+
+//Add Multiply Function
+function multiply(a, b) {
+return a * b;
+}
